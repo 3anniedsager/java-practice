@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Wrote notes on upcoming feature design
 - Reviewed codebase, identified areas for improvement
+
+## 2026-05-06
+- Improved error handling in edge cases
+- Reorganised test fixtures
